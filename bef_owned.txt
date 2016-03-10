@@ -1,0 +1,9 @@
+#HELMS
+No Helm
+Fancy Hat
+#CHESTS
+No Chest
+#GAUNTLETS
+No Gauntlets
+#GREAVES
+No Greaves
