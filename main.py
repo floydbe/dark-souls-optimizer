@@ -106,7 +106,8 @@ class Main():
 
 	
 	def usage(self):
-		print "USAGE NOT YET IMPLIMENTED"
+		print "Command line options for main.py:"
+		print "[-u, --user]\tuser name. Required Parameter.\n"
 	
 	def parse_args(self):
 		try:
